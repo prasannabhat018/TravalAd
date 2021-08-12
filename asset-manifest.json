@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/TravalAd/static/js/main.cb909ce1.chunk.js",
+    "main.js.map": "/TravalAd/static/js/main.cb909ce1.chunk.js.map",
+    "runtime-main.js": "/TravalAd/static/js/runtime-main.b6c9c420.js",
+    "runtime-main.js.map": "/TravalAd/static/js/runtime-main.b6c9c420.js.map",
+    "static/js/2.2e45bfce.chunk.js": "/TravalAd/static/js/2.2e45bfce.chunk.js",
+    "static/js/2.2e45bfce.chunk.js.map": "/TravalAd/static/js/2.2e45bfce.chunk.js.map",
+    "index.html": "/TravalAd/index.html",
+    "static/js/2.2e45bfce.chunk.js.LICENSE.txt": "/TravalAd/static/js/2.2e45bfce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6c9c420.js",
+    "static/js/2.2e45bfce.chunk.js",
+    "static/js/main.cb909ce1.chunk.js"
+  ]
+}
