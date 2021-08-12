@@ -1,6 +1,6 @@
 # Travel Advisor
 
-### [Live Site](https://travalad.herokuapp.com/)
+### [Live Site](https://prasannabhat018.github.io/TravalAd/)
 
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
